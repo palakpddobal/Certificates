@@ -5,7 +5,6 @@ This repository serves as a structured collection of certificates and credential
 * 🎓 **Academic & Technical Courses**
 * 💻 **Programming, Data Science & Machine Learning**
 * 🏭 **Semiconductor & Materials Engineering**
-* 🔬 **Workshops & Training Programs**
 * 🏆 **Hackathons, Competitions & Events**
 * 🌟 **Extracurricular Activities**
 * 📈 **Continuous Learning & Skill Development**
